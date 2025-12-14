@@ -2,7 +2,8 @@
 
 🌐 [Personal Branding Website](https://williamhsieh615.github.io/personal-branding-website/HTML/index.html)  
 
-Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者  
+Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者
+Java Software Engineer | Full-Stack Development | AI & Data Analytics Enthusiast
 
 ---
 
@@ -66,7 +67,7 @@ Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=black)
 
-### 🔹 DevOps
+### 🔹 DevOps / Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
 
