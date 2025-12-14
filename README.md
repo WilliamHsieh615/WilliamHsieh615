@@ -7,10 +7,11 @@ Java Software Engineer | Full-Stack Development | AI & Data Analytics Enthusiast
 ---
 
 ## 🧑‍💼 About Me
-- 從銀行行員成功轉職軟體工程師  
-- 專注於後端與前端全端開發，並熟悉 DevOps 工具與部署  
-- 了解 AI 技術與資料分析應用  
-- 熱衷學習新技術，喜歡解決複雜問題並打造創新方案
+- Successfully transitioned from the banking industry to software engineering  
+- Focused on full-stack development with strong expertise in backend and frontend technologies  
+- Familiar with DevOps tools and deployment workflows  
+- Knowledgeable in AI technologies and data analytics applications  
+- Passionate about learning new technologies and solving complex problems through innovative solutions
 
 ---
 
@@ -21,7 +22,7 @@ Java Software Engineer | Full-Stack Development | AI & Data Analytics Enthusiast
 ---
 
 ## 🎓 Education & Training
-- **銘傳大學 國際企業學系**｜學士｜2013/09 – 2017/06
+- **B.B.A., International Business, Ming Chuan University**
 - **Professional Training in Software Engineering, AI & Full-Stack Development**
 
 ---
@@ -109,6 +110,5 @@ Java Software Engineer | Full-Stack Development | AI & Data Analytics Enthusiast
 
 ---
 
-> 熱愛學習、樂於挑戰，歡迎自由接案或合作！  
 > Open to freelance projects and collaboration opportunities!
 
