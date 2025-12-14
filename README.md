@@ -16,8 +16,8 @@ Java Software Engineer | Full-Stack Development | AI & Data Analytics Enthusiast
 ---
 
 ## 💼 Experience
-- **采盟股份有限公司**｜Java 軟體工程師｜台北市｜2025/11 - 至今
-- **渣打國際商業銀行**｜客戶服務專員｜新竹市｜2019/06 – 2024/09
+- **Ever Rich Duty Free Co., Ltd.** ｜ Java Software Engineer ｜ Taipei ｜ Nov 2025 – Present
+- **Standard Chartered Bank** ｜ Customer Service Specialist｜Hsinchu｜Jun 2019 – Sep 2024
 
 ---
 
@@ -111,4 +111,5 @@ Java Software Engineer | Full-Stack Development | AI & Data Analytics Enthusiast
 ---
 
 > Open to freelance projects and collaboration opportunities!
+> curriculum-vitae
 
