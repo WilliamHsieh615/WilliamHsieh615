@@ -111,5 +111,6 @@ Java Software Engineer | Full-Stack Development | AI & Data Analytics Enthusiast
 ---
 
 > Open to freelance projects and collaboration opportunities!
+
 > For a full overview of my professional experience and projects, please see my [Curriculum Vitae](https://williamhsieh615.github.io/curriculum-vitae/).
 
