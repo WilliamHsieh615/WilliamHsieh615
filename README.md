@@ -110,5 +110,6 @@ Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者
 
 ---
 
-## ⭐ 熱愛學習、樂於挑戰，歡迎自由接案或合作！ Open to freelance projects and collaboration opportunities!
+> 熱愛學習、樂於挑戰，歡迎自由接案或合作！ 
+> Open to freelance projects and collaboration opportunities!
 
