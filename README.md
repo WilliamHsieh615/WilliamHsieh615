@@ -1,4 +1,4 @@
-# Hi, I'm William Hsieh
+# William Hsieh
 
 🌐 [個人網頁](https://WilliamHsieh615.github.io/curriculum-vitae/)  
 
