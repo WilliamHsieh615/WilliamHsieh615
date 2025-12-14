@@ -63,7 +63,7 @@ Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-### 🔹 辦公室應用 Office
+### 🔹 Office
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=flat&logo=microsoft-powerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
