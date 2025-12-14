@@ -110,5 +110,5 @@ Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者
 
 ---
 
-⭐ Open to freelance / collaboration opportunities!
+## > Open to freelance / collaboration opportunities!
 
