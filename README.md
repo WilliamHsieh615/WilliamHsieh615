@@ -16,8 +16,8 @@ Java Software Engineer | Full-Stack Development | AI & Data Analytics Enthusiast
 ---
 
 ## 💼 Experience
-- **Ever Rich Duty Free Co., Ltd.** ｜ Java Software Engineer ｜ Taipei ｜ Nov 2025 – Present
-- **Standard Chartered Bank** ｜ Customer Service Specialist｜Hsinchu｜Jun 2019 – Sep 2024
+- **Ever Rich Duty Free Co., Ltd.** ｜Java Software Engineer ｜ Taipei ｜ Nov 2025 – Present
+- **Standard Chartered Bank** ｜Customer Service Specialist｜Hsinchu｜Jun 2019 – Sep 2024
 
 ---
 
