@@ -21,7 +21,7 @@ Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者
 ---
 
 ## 🎓 Education & Training
-- **B.B.A., International Business, Ming Chuan University**
+- **銘傳大學 國際企業學系**｜學士｜2013/09 – 2017/06
 - **Professional Training in Software Engineering, AI & Full-Stack Development**
 
 ---
