@@ -60,8 +60,8 @@ Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者
 |---------|------------------|
 | [Frontend Portfolio](https://williamhsieh615.github.io/frontend-portfolio/) | 響應式網站、互動動畫專案集 |
 | [TodoList](https://github.com/WilliamHsieh615/todolist) | Vue 3 / Vite / Spring Boot / Spring Security 全端 Todo App |
-| [Fruit & Essence](https://github.com/WilliamHsieh615/fruit-and-essence) | Vue 3 / Nuxt 5 / Spring Boot / Spring Security / MySQL 全端 美國冷壓果汁官網 |
-| [Sweetaste](https://github.com/WilliamHsieh615/sweetaste) | Vue 3 / Nuxt 4 / Jakarta EE / MySQL 全端 現代風甜點購物網站 |
+| [Fruit & Essence](https://github.com/WilliamHsieh615/fruit-and-essence) | Vue 3 / Nuxt 4 / Spring Boot / Spring Security / MySQL 全端 美國冷壓果汁官網 |
+| [Sweetaste](https://github.com/WilliamHsieh615/sweetaste) | Vue 3 / Nuxt 3 / Jakarta EE / MySQL 全端 現代風甜點購物網站 |
 | [Member Management System](https://github.com/WilliamHsieh615/member-management-system) | Java Servlet / JSP / MySQL 全端 會員資料管理 |
 | [Beverage Ordering System](https://github.com/WilliamHsieh615/beverage-ordering-system) | Vue 3 / Vite / Bootstrap 5 前端 飲料店點餐系統 |
 
