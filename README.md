@@ -36,7 +36,7 @@ Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### 🔹 AI / ML / Data
+### 🔹 AI / Machine Learning / Data Analysis / Image Recognition / Natural Language Processing
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
