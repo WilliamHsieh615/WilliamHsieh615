@@ -8,9 +8,8 @@ Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者
 
 ## 🧑‍💼 About Me
 - 從銀行行員成功轉職軟體工程師  
-- 熟悉 Java 後端、Spring Boot、Spring Security、Jakarta EE  
-- 熟悉前端：Vue、Nuxt、HTML、CSS、Sass、JavaScript、TypeScript、Bootstrap  
-- 了解 AI 應用：機器學習、深度學習、自然語言處理(NLP)、影像處理與資料分析  
+- 專注於後端與前端全端開發，並熟悉 DevOps 工具與部署  
+- 了解 AI 技術與資料分析應用  
 - 熱衷學習新技術，喜歡解決複雜問題並打造創新方案
 
 ---
@@ -22,6 +21,8 @@ Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007FFF?style=flat&logo=jakartaee&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
 
 ### 🔹 Frontend / Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
