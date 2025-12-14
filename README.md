@@ -1,13 +1,13 @@
-# 👋 Hi, I'm William Hsieh
+# Hi, I'm William Hsieh
 
-🌐 [Curriculum Vitae 網頁版](https://WilliamHsieh615.github.io/curriculum-vitae/)  
+🌐 [個人網頁](https://WilliamHsieh615.github.io/curriculum-vitae/)  
 
 Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者  
 
 ---
 
 ## 🧑‍💼 About Me
-- 從銀行客服成功轉職軟體工程師  
+- 從銀行行員成功轉職軟體工程師  
 - 熟悉 Java 後端、Spring Boot、Spring Security、Jakarta EE  
 - 熟悉前端 Vue / Nuxt / HTML / CSS / JavaScript  
 - 對 AI、資料分析與自動化開發有實務應用經驗  
