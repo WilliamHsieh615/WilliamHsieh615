@@ -92,14 +92,14 @@ Java Software Engineer | Full-Stack Development | AI & Data Analytics Enthusiast
 
 | Project | Tech / Description |
 |---------|------------------|
-| [Frontend Portfolio](https://williamhsieh615.github.io/frontend-portfolio/) | 響應式網站、互動動畫專案集 |
-| [TodoList](https://github.com/WilliamHsieh615/todolist) | Vue 3 / Vite / Spring Boot / Spring Security 全端 Todo App |
-| [Fruit & Essence](https://github.com/WilliamHsieh615/fruit-and-essence) | Vue 3 / Nuxt 4 / Spring Boot / Spring Security / MySQL 全端 美國冷壓果汁官網 |
-| [Sweetaste](https://github.com/WilliamHsieh615/sweetaste) | Vue 3 / Nuxt 3 / Jakarta EE / MySQL 全端 現代風甜點購物網站 |
-| [Member Management System](https://github.com/WilliamHsieh615/member-management-system) | Java Servlet / JSP / MySQL 全端 會員資料管理 |
-| [Beverage Ordering System](https://github.com/WilliamHsieh615/beverage-ordering-system) | Vue 3 / Vite / Bootstrap 5 前端 飲料店點餐系統 |
+| [Frontend Portfolio](https://williamhsieh615.github.io/frontend-portfolio/) | Responsive websites and interactive animation project collection |
+| [TodoList](https://github.com/WilliamHsieh615/todolist) | Full-stack Todo application built with Vue 3, Vite, Spring Boot, and Spring Security |
+| [Fruit & Essence](https://github.com/WilliamHsieh615/fruit-and-essence) | Full-stack U.S. cold-pressed juice website using Vue 3, Nuxt 4, Spring Boot, Spring Security, and MySQL |
+| [Sweetaste](https://github.com/WilliamHsieh615/sweetaste) | Full-stack modern dessert e-commerce website built with Vue 3, Nuxt 3, Jakarta EE, and MySQL |
+| [Member Management System](https://github.com/WilliamHsieh615/member-management-system) | Full-stack member management system using Java Servlet, JSP, and MySQL |
+| [Beverage Ordering System](https://github.com/WilliamHsieh615/beverage-ordering-system) | Frontend beverage ordering system built with Vue 3, Vite, and Bootstrap 5 |
 
-> 更多專案請參考 [Repositories](https://github.com/WilliamHsieh615?tab=repositories)
+> For more projects, please visit my [Repositories](https://github.com/WilliamHsieh615?tab=repositories)
 
 ---
 
@@ -111,5 +111,5 @@ Java Software Engineer | Full-Stack Development | AI & Data Analytics Enthusiast
 ---
 
 > Open to freelance projects and collaboration opportunities!
-> curriculum-vitae
+> For a full overview of my professional experience and projects, please see my [Curriculum Vitae](https://williamhsieh615.github.io/curriculum-vitae/).
 
