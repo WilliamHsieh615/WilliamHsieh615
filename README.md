@@ -9,7 +9,7 @@ Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者
 ## 🧑‍💼 About Me
 - 從銀行行員成功轉職軟體工程師  
 - 熟悉 Java 後端、Spring Boot、Spring Security、Jakarta EE  
-- 熟悉前端 Vue / Nuxt / HTML / CSS / JavaScript  
+- 熟悉前端 Vue / Nuxt / HTML / CSS / Sass / JavaScript / Bootstrap  
 - 對 AI、資料分析與自動化開發有實務應用經驗  
 - 熱衷學習新技術，喜歡解決複雜問題並打造創新方案  
 
