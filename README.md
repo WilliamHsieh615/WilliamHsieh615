@@ -1,6 +1,6 @@
 # William Hsieh
 
-🌐 [個人品牌網站](https://williamhsieh615.github.io/personal-branding-website/HTML/index.html)  
+🌐 [Personal Branding Website](https://williamhsieh615.github.io/personal-branding-website/HTML/index.html)  
 
 Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者  
 
