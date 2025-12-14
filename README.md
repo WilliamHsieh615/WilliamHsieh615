@@ -2,7 +2,7 @@
 
 🌐 [Personal Branding Website](https://williamhsieh615.github.io/personal-branding-website/HTML/index.html)  
 
-Java 軟體工程師 Java Software Engineer | 全端開發 Full-Stack Development | AI 與資料分析愛好者 AI & Data Analytics Enthusiast
+Java Software Engineer | Full-Stack Development | AI & Data Analytics Enthusiast
 
 ---
 
