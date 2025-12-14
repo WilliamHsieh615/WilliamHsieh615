@@ -9,9 +9,9 @@ Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者
 ## 🧑‍💼 About Me
 - 從銀行行員成功轉職軟體工程師  
 - 熟悉 Java 後端、Spring Boot、Spring Security、Jakarta EE  
-- 熟悉前端 Vue / Nuxt / HTML / CSS / Sass / JavaScript / Bootstrap  
-- 對 AI、資料分析與自動化開發有實務應用經驗  
-- 熱衷學習新技術，喜歡解決複雜問題並打造創新方案  
+- 熟悉前端：Vue、Nuxt、HTML、CSS、Sass、JavaScript、TypeScript、Bootstrap  
+- 了解 AI 應用：機器學習、深度學習、自然語言處理(NLP)、影像處理與資料分析  
+- 熱衷學習新技術，喜歡解決複雜問題並打造創新方案
 
 ---
 
@@ -28,10 +28,11 @@ Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
-![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ### 🔹 AI / ML / Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -73,14 +74,30 @@ Java 軟體工程師 | 全端開發 | AI 與資料分析愛好者
 ---
 
 ## 🎓 Education & Training
-- **銘傳大學 國際企業學系**｜學士 (2013–2017)   
-- **國立陽明交通大學**：
-  - 光子(矽光子&量子)與 AI 應用專業人才養成班、
-  - 半導體 AI 與 ChatGPT 跨領域班、
-  - 半導體 AI 與 ChatGPT 應用班、
-  - 資安攻防與 AI 應用實戰班  
-- **六角學院**：前端課程、軟體工程師體驗營  
-- **巨匠電腦**：Java、C#.NET、C++、C 語言程式設計課程  
+- **銘傳大學 國際企業學系**｜學士｜2013–2017
+- **國立陽明交通大學**
+  - 光子(矽光子&量子)與 AI 應用專業人才養成班｜2024/11 - 2025/01
+  - 半導體 AI 與 ChatGPT 跨領域班｜2023/08 - 2023/11
+  - 半導體 AI 與 ChatGPT 應用班｜2024/09 - 2024/12
+  - 資安攻防與 AI 應用實戰班｜2025/04 - 2025/08
+- **六角學院**
+  - 前端影音課程｜2025/03 - 至今
+  - 軟體工程師體驗營｜2025/04 - 2025/06
+  - Vue3 前端新手營｜2025/07 - 2025/09
+  - Vibe Coding 公益程式體驗營｜2025/10 - 2025/12
+  - TypeScript 實戰課｜2025/10 - 2025/12
+- **巨匠電腦**
+  - Java 基礎程式設計｜2024/09 - 2024/10
+  - Java OCP JP 程式設計師認證班｜2024/10 - 2024/12
+  - Java Web OCE JWCD 元件系統開發認證｜2024/12 - 2025/03
+  - C 語言程式設計｜2024/12 - 2025/01
+  - C++ 程式設計｜2025/01 - 2025/02
+  - C#.NET程式設計｜2025/01 - 2025/02
+  - 資料庫概論｜2024/10 - 2024/11
+- **HaHow**
+  - Java 工程師必備！Spring Boot 零基礎入門｜2025/08 - 至今
+  - 資安一把罩！Spring Security 零基礎入門｜2025/09 - 至今
+  - Docker 部署入門完全指南-圖片速學攻略｜2025/10 - 至今
 
 ---
 
