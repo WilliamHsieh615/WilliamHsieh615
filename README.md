@@ -1,6 +1,6 @@
 # William Hsieh
 
-🌐 [Personal Branding Website](https://williamhsieh615.github.io/personal-branding-website/HTML/index.html)  
+🌐 [Business Card](https://williamhsieh615.github.io/business-card/)  
 
 Java Software Engineer | Full-Stack Development | AI & Data Analytics Enthusiast
 
